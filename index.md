@@ -1,5 +1,5 @@
 # demo du gitflow
 
-## sous titre
+## sous-titre
 
 *corps de texte* 
